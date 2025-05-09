@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository]()
-- Live Site URL: [Live Demo]()
+- Solution URL: [GitHub Repository](https://github.com/Ayokanmi-Adejola/Result-Summary-Component)
+- Live Site URL: [Live Demo](https://ayokanmi-adejola.github.io/Result-Summary-Component/)
 
 ## My process
 
