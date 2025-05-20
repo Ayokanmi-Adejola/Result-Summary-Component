@@ -29,11 +29,6 @@ Users should be able to:
 
 ![](./preview.jpg)
 
-### Links
-
-- Solution URL: [GitHub Repository](https://github.com/Ayokanmi-Adejola/Result-Summary-Component)
-- Live Site URL: [Live Demo](https://ayokanmi-adejola.github.io/Result-Summary-Component/)
-
 ## My process
 
 ### Built with
@@ -84,5 +79,4 @@ In future projects, I plan to focus on:
 
 ## Author
 
-- Website - [Ayokanmi Adejola](https://ayokanmi-adejola-portfolio.netlify.app/)
 - Frontend Mentor - [@Ayokanmi Adejola](https://www.frontendmentor.io/profile/Ayokanmi-Adejola)
